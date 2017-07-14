@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addons>
+  <addon id="plugin.video.mmeuronews" version="1.0.1" name="mmEuroNews" provider-name="mmkodi">
+	<extension point="xbmc.addon.metadata">
+		<summary>Watch Euronews EN Live</summary>
+		<description>Euronews Live Plugin for new stream</description>
+		<disclaimer>This is not an official Euronews add-on and therefore comes with no warranty. Use it at your own responsability</disclaimer>
+	</extension>
+</addon>
+</addons>
